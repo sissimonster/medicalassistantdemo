@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "OPENAI_API_KEY": "77f1673c9ceb4272a4d3c08373cdc24b"
+  },
+  "Host": {
+    "LocalHttpPort": 7070,
+    "CORS": "*",
+    "CORSCredentials": false
+  }
+}
